@@ -44,7 +44,7 @@ function calculate_bill($units) {
  
 <body>
 	<div id="page-wrap">
-		<h1>Electricity Bill</h1>
+		<h1>ELECTRIC BILL CALCULATOR</h1>
 		
 		<form action="" method="post" id="quiz-form">            
             	<input type="number" name="units" id="units" placeholder="Please enter no. of Units" />            
